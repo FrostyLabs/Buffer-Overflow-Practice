@@ -1,4 +1,4 @@
-# Buffer-Overflow-Practice
+# Buffer Overflow Practice
 
 This repository is just for me to practice my buffer overflow
 skills. Perhaps one day I will find a real buffer overflow exploit
